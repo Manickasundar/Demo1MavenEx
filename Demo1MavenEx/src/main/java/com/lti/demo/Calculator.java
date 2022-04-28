@@ -5,6 +5,7 @@ public class Calculator {
 	{
 		return "Hello World";
 	}
+	int i;
 	public int addNos(int x,int y)
 	{
 		int result=x+y;
